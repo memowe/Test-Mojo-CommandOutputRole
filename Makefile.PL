@@ -10,7 +10,7 @@ WriteMakefile(
     MIN_PERL_VERSION    => '5.20.0',
     PREREQ_PM           => {
         'Mojolicious'       => '8.06',
-        'Test::Exception'   => '0.43',
+        'Capture::Tiny'     => '0.48',
     },
     META_MERGE          => {resources => {
         bugtracker  => 'https://github.com/memowe/Test-Mojo-CommandOutputRole/issues',

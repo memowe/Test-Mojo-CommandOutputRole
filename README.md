@@ -64,11 +64,11 @@ Dependencies
 
 - [perl][] 5.20
 - [Mojolicious][mojo] 8.06
-- [Test::Exception][teex] 0.43
+- [Capture::Tiny][cati] 0.48
 
 [perl]: https://www.perl.org/get.html
 [mojo]: https://metacpan.org/pod/Mojolicious
-[teex]: https://metacpan.org/pod/Test::Exception
+[cati]: https://metacpan.org/pod/Capture::Tiny
 
 License and copyright
 ---------------------
@@ -81,3 +81,10 @@ Released under the MIT (X11) license. See [LICENSE.txt][mit] for details.
 [mgh]: https://github.com/memowe
 [mmail]: mailto:mirko@westermeier.de
 [mit]: LICENSE.txt
+
+Contributors
+------------
+
+- Renee Bäcker ([\@reneeb][reneeb])
+
+[reneeb]: https://github.com/reneeb
