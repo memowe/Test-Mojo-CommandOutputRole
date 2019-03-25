@@ -8,6 +8,7 @@ WriteMakefile(
     AUTHOR              => 'Mirko Westermeier <mirko@westermeier.de>',
     VERSION_FROM        => 'lib/Test/Mojo/CommandOutputRole.pm',
     MIN_PERL_VERSION    => '5.20.0',
+    LICENSE             => 'mit',
     PREREQ_PM           => {
         'Mojolicious'       => '8.06',
         'Capture::Tiny'     => '0.48',
