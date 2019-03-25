@@ -65,10 +65,12 @@ Dependencies
 - [perl][] 5.20
 - [Mojolicious][mojo] 8.06
 - [Capture::Tiny][cati] 0.48
+- [Role::Tiny][roti] 2.000006
 
 [perl]: https://www.perl.org/get.html
 [mojo]: https://metacpan.org/pod/Mojolicious
 [cati]: https://metacpan.org/pod/Capture::Tiny
+[roti]: https://metacpan.org/pod/Role::Tiny
 
 License and copyright
 ---------------------
